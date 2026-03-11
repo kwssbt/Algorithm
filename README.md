@@ -1,4 +1,6 @@
-# Algorithm-Template
-ssbt 's algorithm template
-  
-射杀百头的算法模板库，主要整理一些复用性较强的代码模板，持续更新ing~
+# ssbt 的 XCPC 模板库
+
+- 01 - 基础算法
+- 02 - 数据结构
+- 03 - 数学与数论
+- 04 - 图论 
